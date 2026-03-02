@@ -6,12 +6,6 @@ This project humorously exaggerates unethical data-collection practices while de
 
 ---
 
-## 📸 Screenshot
-
-<img src="./images/project-screenshot.png" alt="WeBarelyWork landing page screenshot" width="700" />
-
----
-
 ## 📌 Project Overview
 
 This project simulates a dramatic and playful “data consent” experience:
