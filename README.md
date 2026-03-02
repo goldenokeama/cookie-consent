@@ -6,6 +6,12 @@ This project humorously exaggerates unethical data-collection practices while de
 
 ---
 
+## 📸 Screenshot
+
+<img src="./images/project-screenshot.png" alt="Cookie consent modal screenshot" width="700" />
+
+---
+
 ## 📌 Project Overview
 
 This project simulates a dramatic and playful “data consent” experience:
