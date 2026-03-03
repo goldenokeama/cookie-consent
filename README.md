@@ -6,6 +6,12 @@ This project humorously exaggerates unethical data-collection practices while de
 
 ---
 
+## 🚀 Live Demo
+
+[View the deployed site here](https://cookie-consent-golden.netlify.app/)
+
+---
+
 ## 📸 Screenshot
 
 <img src="./images/project-screenshot.png" alt="Cookie consent modal screenshot" width="700" />
