@@ -14,7 +14,7 @@ This project humorously exaggerates unethical data-collection practices while de
 
 ## 📸 Screenshot
 
-<img src="./images/project-screenshot.png" alt="Cookie consent modal screenshot" width="700" />
+<img src="./public/images/project-screenshot.png" alt="Cookie consent modal screenshot" width="700" />
 
 ---
 
